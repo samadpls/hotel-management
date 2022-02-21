@@ -1,0 +1,2 @@
+# hotel-management
+my first python project. In this project i asked user to enter the number of bed you want in your room and then my program check if that any room is availabe of that respective number of bed and then user ask to pay and set password to use later for room service all the data will be save on file and password will be encyrpted in file so privacy will remain maintain.  As its my first project and first try .,i know i did many blunders but  this how we all learn and i am trying to learn better coding each day
