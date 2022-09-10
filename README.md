@@ -1,2 +1,10 @@
 # hotel-management
-first python project. In this project, user enter the number of beds they want in their room , program checks  avaliablity of room of respective number of bed, after that the user ask to pay and set a password to use later for room service all the data will be saved on file and password will be encrypted in the file so privacy will remain maintained.  As it's my first project and first try , I know I did many blunders but this is how we all learn and I am trying to learn better coding each day.
+- A CLI base hotel management sytem, use simple beginner level logic without implementation of any library. 
+- It uses .txt file to store user data 
+- feature like type of room, food coresponding the their prices
+- User password will be encyrpted in the data base so no other can hack it
+ 
+ ### Downside
+ ```
+ since it was my first project i did make mistake if anyone interested they can opensource it 
+ ```
